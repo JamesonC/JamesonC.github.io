@@ -215,7 +215,7 @@ a:hover, a:active {
 
     .main-menu li:hover::after,
     .main-menu li.current-menu-item::after {
-        color: #f0437e;
+        color: #CC5500;
     }
 
     .site-navigation {
